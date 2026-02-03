@@ -7,6 +7,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=flat-square)](#)
 [![x402 Protocol](https://img.shields.io/badge/x402-Protocol-6366f1?style=flat-square)](https://x402.org)
 
+[screen-capture.webm](https://github.com/user-attachments/assets/a96a40d0-e114-4698-a8ce-a37ae0f96e3f)
+
+
 ---
 
 ## Table of Contents
